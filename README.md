@@ -1,4 +1,3 @@
 # ML_Processing
 
-Execute requirement.txt file before working on the code
-(ubuntu)cmd : `pip install -r requirements.txt`
+Execute requirement.txt file before working on the code(ubuntu) `pip install -r requirements.txt`
