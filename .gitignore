@@ -1,7 +1,7 @@
 // .gitignore
 
-# .bin
-# .include
-# .lib
-# .lib64
-# .share
+bin
+include
+lib
+share
+lib64
