@@ -1,4 +1,4 @@
-# https://www.geeksforgeeks.org/python-thresholding-techniques-using-opencv-set-1-simple-thresholding/
+
 
 import cv2
 
