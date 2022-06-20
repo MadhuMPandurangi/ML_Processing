@@ -5,3 +5,4 @@ include
 lib
 share
 lib64
+main.py
