@@ -26,6 +26,7 @@ class NoiceReduction:
         ret1, self.inv_crop = cv2.threshold(self.crop, 120, 255,cv2.THRESH_BINARY_INV)
         self.opening = cv2.morphologyEx(self.inv_crop, cv2.MORPH_OPEN, kernel_opening)
         self.erosion = cv2.erode(self.opening,kernel_erosion,iterations = 1)
+        cv2.imwrite("./static/noise_reduced_img.jpg", self.erosion)
 
 
 
