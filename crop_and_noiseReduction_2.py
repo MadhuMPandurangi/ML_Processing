@@ -1,4 +1,3 @@
-
 try:
     # standard library imports
     import cv2
