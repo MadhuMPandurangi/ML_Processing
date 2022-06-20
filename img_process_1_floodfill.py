@@ -44,4 +44,4 @@ class Flood_fill:
 
 # Driver code
 flood_fill_obj = Flood_fill()
-flood_fill_obj.display()
+#flood_fill_obj.display()
