@@ -5,7 +5,7 @@ Setp 1: Execute requirement.txt file before working on the code(ubuntu) <br/>
        
        
 step 2:Execute cmd: <br/> 
-`python3 crop_and_noiseReduction_2.py`        
+`python3 main.py`        
 
 
 ## References
